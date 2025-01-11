@@ -45,3 +45,16 @@ Este projeto foi desenvolvido como parte do programa **Oracle ONE** em parceria 
 
 ## Licença  
 Este projeto é destinado exclusivamente ao conteúdo educacional do programa Oracle ONE da Alura.  
+
+
+## Prints
+## Capturas de Tela  
+
+### Tela 1:  
+![Captura de Tela 1](Captura%20de%20tela%20de%202025-01-11%2002-15-03.png "Exemplo de funcionalidade")  
+
+### Tela 2:  
+![Captura de Tela 2](Captura%20de%20tela%20de%202025-01-11%2002-14-40.png "Detalhes do sistema")  
+
+### Tela 3:  
+![Captura de Tela 3](Captura%20de%20tela%20de%202025-01-11%2002-14-18.png "Menu de opções")  
